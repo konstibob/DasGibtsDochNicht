@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79a278781ebf3b043983a06766961911, type: 3}
+  m_Name: Montanablack
+  m_EditorClassIdentifier: 
+  name: 'Monte feierts '
+  description: Monte feierts
+  artwork: {fileID: 21300000, guid: ef4244c78cd3cf94eae4b28d25c00033, type: 3}
+  cardBack: {fileID: 0}
